@@ -156,7 +156,6 @@ text-align:center
 ## OUTPUT
 ![alt text](image.png)
 
-INCLUDE YOUR OUTPUT IMAGE
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
